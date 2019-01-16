@@ -26,6 +26,5 @@ public class CubeController : MonoBehaviour
         {
             Destroy(gameObject);
         }
-
     }
 }
